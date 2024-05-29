@@ -7,6 +7,11 @@ TagManager:
   - Ground
   - Object
   - Bullet
+  - Niveau 2
+  - Niveau 1
+  - Niveau 3
+  - void
+  - End
   layers:
   - Default
   - TransparentFX
